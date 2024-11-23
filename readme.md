@@ -1,8 +1,10 @@
 # pboard
 
-![pboard](imgur.com image replace me!)
+![pboard](./img0.jpg)
 
 *A short description of the keyboard/project*
+
+Should be in path: \\user\qmk_firmware\keyboards\pboard
 
 * Keyboard Maintainer: [pafinkbeiner](https://github.com/pafinkbeiner)
 * Hardware Supported: *The PCBs, controllers supported*
