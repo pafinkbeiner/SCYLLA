@@ -1,5 +1,7 @@
 # pboard
 
+![pboard_finished](./IMG_20241127_150106.jpg)
+
 ![pboard](./img0.jpg)
 
 *A short description of the keyboard/project*
